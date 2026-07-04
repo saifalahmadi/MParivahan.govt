@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gov-deep: #002147; /* Deeper, more formal blue */
+  --color-gov-blue: #003366;
+  --color-gov-light: #f8fafc;
+  --color-gov-accent: #0055aa;
+  --color-india-saffron: #FF9933;
+  --color-india-green: #138808;
+  
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+:root {
+  --gov-blue: #003366;
+  --gov-deep: #002147;
+  --gov-light: #f8fafc;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: #fdfdfd;
+  color: #1e293b;
+  min-height: 100vh;
+}
+
+/* Official Government Strip Pattern */
+.gov-pattern {
+  background-image: radial-gradient(#003366 0.5px, transparent 0.5px);
+  background-size: 24px 24px;
+  background-color: #f8fafc;
+  opacity: 0.1;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.nav-glass {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(4px);
+  border-bottom: 3px solid var(--gov-blue);
+}
+
+.btn-primary {
+  @apply px-6 py-2.5 rounded-lg bg-gov-blue text-white font-bold transition-all hover:bg-gov-deep hover:shadow-md active:scale-95;
+}
+
+.official-shadow {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}

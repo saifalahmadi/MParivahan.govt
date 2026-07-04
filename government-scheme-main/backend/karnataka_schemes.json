@@ -1,0 +1,437 @@
+[
+  {
+    "scheme_name": "Post-Matric Scholarship (SC/ST/OBC)",
+    "slug": "post-matric-scholarship-sc-st-obc",
+    "details": "For higher education students belonging to SC/ST/OBC categories in Karnataka. Provides financial assistance to cover education costs.",
+    "benefits": "Fee reimbursement + maintenance allowance",
+    "eligibility": {
+      "text": "Karnataka resident, SC/ST/OBC students, Studying after Class 10",
+      "residence": ["karnataka"],
+      "category": ["SC", "ST", "OBC"],
+      "education": "Post-Matric"
+    },
+    "nlp": {
+      "min_age": 16,
+      "max_age": null,
+      "max_income": 250000,
+      "detected_states": ["karnataka"],
+      "keywords": ["scholarship", "post-matric", "higher education", "sc", "st", "obc"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Education & Learning",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Pre-Matric Scholarship (SC/ST/OBC/Minorities)",
+    "slug": "pre-matric-scholarship-sc-st-obc-minorities",
+    "details": "For school students from Class 1 to 10 belonging to SC/ST/OBC or Minority communities in Karnataka.",
+    "benefits": "Financial support for school education",
+    "eligibility": {
+      "text": "Students from Class 1-10, Belonging to SC/ST/OBC/Minority, Regular school attendance",
+      "residence": ["karnataka"],
+      "category": ["SC", "ST", "OBC", "Minority"]
+    },
+    "nlp": {
+      "min_age": 6,
+      "max_age": 16,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["scholarship", "pre-matric", "school", "sc", "st", "obc", "minority"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Education & Learning",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Vidyasiri Scholarship",
+    "slug": "vidyasiri-scholarship",
+    "details": "Provides hostel and food support for backward class students pursuing post-matric education in Karnataka.",
+    "benefits": "Free hostel + food allowance",
+    "eligibility": {
+      "text": "Backward class students, Post-matric education, Income limit applicable, Must not have private hostel support",
+      "residence": ["karnataka"],
+      "category": ["OBC", "Backward Class"]
+    },
+    "nlp": {
+      "min_age": 16,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["vidyasiri", "hostel", "food", "scholarship", "backward class"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Education & Learning",
+    "is_central": false
+  },
+  {
+    "scheme_name": "SSP Scholarship (State Scholarship Portal)",
+    "slug": "ssp-scholarship",
+    "details": "Central platform for all scholarships in Karnataka. Facilitates Direct Benefit Transfer (DBT) to students.",
+    "benefits": "Direct Benefit Transfer (DBT) to students",
+    "eligibility": {
+      "text": "SC/ST/OBC/Minority/EWS students, Aadhaar-linked bank account, Online application mandatory",
+      "residence": ["karnataka"],
+      "category": ["SC", "ST", "OBC", "Minority", "EWS"]
+    },
+    "nlp": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["ssp", "scholarship", "portal", "dbt", "aadhaar"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Education & Learning",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Sanchi Honnamma Scholarship",
+    "slug": "sanchi-honnamma-scholarship",
+    "details": "Financial support for female students in Karnataka enrolled in higher education.",
+    "benefits": "₹2,000 per year financial support",
+    "eligibility": {
+      "text": "Female students in Karnataka, Must be enrolled in higher education, Karnataka resident",
+      "residence": ["karnataka"],
+      "gender": ["female"]
+    },
+    "nlp": {
+      "min_age": 18,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["sanchi honnamma", "scholarship", "girls", "higher education"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Education & Learning",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Minority Scholarship (Karnataka)",
+    "slug": "minority-scholarship-karnataka",
+    "details": "Fee reimbursement and maintenance support for students belonging to minority communities in Karnataka.",
+    "benefits": "Fee reimbursement + maintenance support",
+    "eligibility": {
+      "text": "Muslim, Christian, Sikh, Jain, Buddhist, Parsi students, Income-based eligibility, Academic performance required",
+      "residence": ["karnataka"],
+      "category": ["Minority"]
+    },
+    "nlp": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["minority", "scholarship", "muslim", "christian", "sikh", "jain"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Education & Learning",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Fee Reimbursement Scheme (Karnataka)",
+    "slug": "fee-reimbursement-scheme-karnataka",
+    "details": "Full or partial tuition fee coverage for professional courses for students in Karnataka.",
+    "benefits": "Full/partial tuition fee coverage",
+    "eligibility": {
+      "text": "SC/ST/OBC/EWS students, Admission in recognized college, Income certificate required",
+      "residence": ["karnataka"],
+      "category": ["SC", "ST", "OBC", "EWS"]
+    },
+    "nlp": {
+      "min_age": 18,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["fee reimbursement", "professional courses", "college"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Education & Learning",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Karnataka Labour Welfare Scholarship",
+    "slug": "karnataka-labour-welfare-scholarship",
+    "details": "Financial assistance for children of registered labor workers in Karnataka.",
+    "benefits": "₹5,000 – ₹20,000 (varies by course)",
+    "eligibility": {
+      "text": "Children of registered labor workers, Parent must be registered worker, Academic performance required",
+      "residence": ["karnataka"]
+    },
+    "nlp": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["labour", "welfare", "scholarship", "workers"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Education & Learning",
+    "is_central": false
+  },
+  {
+    "scheme_name": "National Means-cum-Merit Scholarship (NMMS)",
+    "slug": "nmms-karnataka",
+    "details": "Merit-based support for Class 8 students in government schools.",
+    "benefits": "₹12,000 per year",
+    "eligibility": {
+      "text": "Class 8 students, Government school students, Pass NMMS exam, Income < ₹3.5 lakh",
+      "residence": ["karnataka"]
+    },
+    "nlp": {
+      "min_age": 13,
+      "max_age": 14,
+      "max_income": 350000,
+      "detected_states": ["karnataka"],
+      "keywords": ["nmms", "scholarship", "merit", "class 8"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Education & Learning",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Deepika Student Scholarship Programme",
+    "slug": "deepika-student-scholarship",
+    "details": "Financial support for girl students from government colleges for higher education in Karnataka.",
+    "benefits": "₹30,000 per year for higher education",
+    "eligibility": {
+      "text": "Girls from government colleges, Must continue higher education, Karnataka resident",
+      "residence": ["karnataka"],
+      "gender": ["female"]
+    },
+    "nlp": {
+      "min_age": 18,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["deepika", "scholarship", "girls", "higher education"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Education & Learning",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Gruha Lakshmi Scheme",
+    "slug": "gruha-lakshmi-scheme",
+    "details": "Monthly financial assistance to women head of the family in Karnataka to promote women empowerment.",
+    "benefits": "₹2,000 per month to women head of the family",
+    "eligibility": {
+      "text": "Must be a woman head of household, Resident of Karnataka, Usually from BPL / lower-income families, Aadhaar-linked ration card",
+      "residence": ["karnataka"],
+      "gender": ["female"]
+    },
+    "nlp": {
+      "min_age": 18,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["gruha lakshmi", "women", "monthly", "2000", "empowerment"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Social welfare & Empowerment",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Gruha Jyoti Scheme",
+    "slug": "gruha-jyoti-scheme",
+    "details": "Free electricity up to 200 units per month for domestic electricity connection holders in Karnataka.",
+    "benefits": "Free electricity up to 200 units/month",
+    "eligibility": {
+      "text": "Karnataka resident, Domestic electricity connection holder, Consumption within average limit",
+      "residence": ["karnataka"]
+    },
+    "nlp": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["gruha jyoti", "electricity", "free", "200 units"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Social welfare & Empowerment",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Anna Bhagya Scheme",
+    "slug": "anna-bhagya-scheme",
+    "details": "Ensures food security by providing free food grains to BPL and Antyodaya ration card holders in Karnataka.",
+    "benefits": "Free food grains (extra rice under PDS)",
+    "eligibility": {
+      "text": "BPL / Antyodaya ration card holders, Registered in PDS, Aadhaar-linked ration card",
+      "residence": ["karnataka"]
+    },
+    "nlp": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["anna bhagya", "food", "rice", "bpl", "pds"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Social welfare & Empowerment",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Shakti Scheme",
+    "slug": "shakti-scheme",
+    "details": "Free bus travel for women residents of Karnataka in state-run buses (non-luxury).",
+    "benefits": "Free bus travel in KSRTC buses for women",
+    "eligibility": {
+      "text": "Women residents of Karnataka, Must show valid ID proof, Applicable in state-run buses",
+      "residence": ["karnataka"],
+      "gender": ["female"]
+    },
+    "nlp": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["shakti", "bus", "free travel", "women", "ksrtc"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Social welfare & Empowerment",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Yuva Nidhi Scheme",
+    "slug": "yuva-nidhi-scheme",
+    "details": "Unemployment support for graduates and diploma holders in Karnataka.",
+    "benefits": "₹3,000/month for graduates, ₹1,500/month for diploma holders",
+    "eligibility": {
+      "text": "Karnataka youth (graduates/diploma holders), Unemployed, Must register after education",
+      "residence": ["karnataka"]
+    },
+    "nlp": {
+      "min_age": 20,
+      "max_age": 30,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["yuva nidhi", "unemployment", "graduates", "diploma"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Social welfare & Empowerment",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Mathrushree Scheme",
+    "slug": "mathrushree-scheme",
+    "details": "Financial assistance to pregnant and lactating women in Karnataka to support maternal health.",
+    "benefits": "₹6,000 financial assistance to pregnant women",
+    "eligibility": {
+      "text": "Pregnant/lactating women, Karnataka residents, Registration in health system required",
+      "residence": ["karnataka"],
+      "gender": ["female"]
+    },
+    "nlp": {
+      "min_age": 18,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["mathrushree", "pregnant", "maternal", "health"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Health & Wellness",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Arogya Karnataka",
+    "slug": "arogya-karnataka",
+    "details": "Healthcare scheme providing free or subsidized medical treatment for major surgeries and hospitalization to Karnataka residents.",
+    "benefits": "Free or subsidized medical treatment",
+    "eligibility": {
+      "text": "All Karnataka residents, Priority to BPL families, Aadhaar & health card required",
+      "residence": ["karnataka"]
+    },
+    "nlp": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["arogya karnataka", "health", "hospital", "surgery"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Health & Wellness",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Airavata Scheme",
+    "slug": "airavata-scheme",
+    "details": "Self-employment support for SC/ST youth in Karnataka through subsidies for vehicle purchase.",
+    "benefits": "Subsidy up to ₹5 lakh for vehicle purchase",
+    "eligibility": {
+      "text": "SC/ST youth, Age 21+, Income < ₹5 lakh/year, Must have driving license",
+      "residence": ["karnataka"],
+      "category": ["SC", "ST"]
+    },
+    "nlp": {
+      "min_age": 21,
+      "max_age": 45,
+      "max_income": 500000,
+      "detected_states": ["karnataka"],
+      "keywords": ["airavata", "vehicle", "subsidy", "sc", "st", "self-employment"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Social welfare & Empowerment",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Udyogini Scheme",
+    "slug": "udyogini-scheme",
+    "details": "Supports women entrepreneurship by providing loans and subsidies for starting businesses in Karnataka.",
+    "benefits": "Loans + subsidy for starting business",
+    "eligibility": {
+      "text": "Women entrepreneurs, Mostly low-income groups, Business proposal required",
+      "residence": ["karnataka"],
+      "gender": ["female"]
+    },
+    "nlp": {
+      "min_age": 18,
+      "max_age": 55,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["udyogini", "women", "business", "loan", "entrepreneur"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Business & Entrepreneurship",
+    "is_central": false
+  },
+  {
+    "scheme_name": "Ganga Kalyana Scheme",
+    "slug": "ganga-kalyana-scheme",
+    "details": "Agricultural support for small and marginal farmers, especially from SC/ST communities, through borewell drilling and irrigation support.",
+    "benefits": "Borewell drilling + irrigation support",
+    "eligibility": {
+      "text": "Small & marginal farmers, SC/ST farmers, Must own agricultural land",
+      "residence": ["karnataka"],
+      "category": ["SC", "ST"]
+    },
+    "nlp": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "detected_states": ["karnataka"],
+      "keywords": ["ganga kalyana", "farmers", "borewell", "irrigation", "agriculture"],
+      "sentiment_score": 0
+    },
+    "level": "State",
+    "schemeCategory": "Social welfare & Empowerment",
+    "is_central": false
+  }
+]

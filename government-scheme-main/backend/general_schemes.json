@@ -1,0 +1,101 @@
+[
+  {
+    "scheme_name": "National Scholarship Portal (NSP)",
+    "slug": "national-scholarship-portal-nsp",
+    "details": "A one-stop solution for multiple scholarships from Central Government, State Governments, and UTs. Provides a common platform for application and disbursement via Direct Benefit Transfer (DBT).",
+    "benefits": "Multiple scholarships ranging from ₹10,000 to ₹50,000+ per year; Direct Benefit Transfer (DBT) to bank accounts.",
+    "eligibility": {
+      "text": "Indian citizen; School or college student; Merit or income based eligibility depending on the specific scholarship.",
+      "residence": ["india"]
+    },
+    "nlp": {
+      "keywords": ["nsp", "scholarship", "portal", "central", "students", "dbt"],
+      "detected_states": ["india"]
+    },
+    "level": "Central",
+    "schemeCategory": "General Category Scheme",
+    "is_central": true
+  },
+  {
+    "scheme_name": "Central Sector Scheme of Scholarships",
+    "slug": "central-sector-scheme-scholarships",
+    "details": "Financial assistance to meritorious students from low-income families to meet their day-to-day expenses while pursuing higher studies.",
+    "benefits": "₹10,000 per year for graduation; ₹20,000 per year for post-graduation.",
+    "eligibility": {
+      "text": "Students in the top 20th percentile in Class 12; Pursuing regular higher education; Family income below ₹8 lakh per annum.",
+      "max_income": 800000
+    },
+    "nlp": {
+      "keywords": ["merit", "scholarship", "higher education", "central sector"],
+      "detected_states": ["india"]
+    },
+    "level": "Central",
+    "schemeCategory": "General Category Scheme",
+    "is_central": true
+  },
+  {
+    "scheme_name": "Beti Bachao Beti Padhao",
+    "slug": "beti-bachao-beti-padhao",
+    "details": "A flagship program to address the declining Child Sex Ratio and promote empowerment of girls through education and health.",
+    "benefits": "Education support; Healthcare access; Community awareness programs and incentives for girl children.",
+    "eligibility": {
+      "text": "All girl children in India; Implemented through coordinated efforts in schools and community centers.",
+      "gender": ["female"]
+    },
+    "nlp": {
+      "keywords": ["girls", "education", "empowerment", "health", "bbbp"],
+      "detected_states": ["india"]
+    },
+    "level": "Central",
+    "schemeCategory": "General Category Scheme",
+    "is_central": true
+  },
+  {
+    "scheme_name": "Pradhan Mantri Mudra Yojana",
+    "slug": "pm-mudra-yojana",
+    "details": "Provides loans to non-corporate, non-farm small/micro enterprises to encourage entrepreneurship and self-employment.",
+    "benefits": "Loans up to ₹10 lakh (Shishu, Kishore, and Tarun categories) without collateral.",
+    "eligibility": {
+      "text": "Indian citizen; Small business owner or micro-entrepreneur with a viable business plan."
+    },
+    "nlp": {
+      "keywords": ["loan", "business", "entrepreneur", "mudra", "central"],
+      "detected_states": ["india"]
+    },
+    "level": "Central",
+    "schemeCategory": "General Category Scheme",
+    "is_central": true
+  },
+  {
+    "scheme_name": "Ayushman Bharat PM-JAY",
+    "slug": "ayushman-bharat-pmjay",
+    "details": "The world's largest health insurance/assurance scheme fully financed by the government. Provides cashless access to healthcare services.",
+    "benefits": "₹5 lakh health insurance coverage per family per year for secondary and tertiary care hospitalization.",
+    "eligibility": {
+      "text": "Based on economic criteria from Socio-Economic Caste Census (SECC); Must be in the eligible beneficiary list."
+    },
+    "nlp": {
+      "keywords": ["health insurance", "hospital", "ayushman bharat", "central", "medical"],
+      "detected_states": ["india"]
+    },
+    "level": "Central",
+    "schemeCategory": "General Category Scheme",
+    "is_central": true
+  },
+  {
+    "scheme_name": "Skill India Mission",
+    "slug": "skill-india-mission",
+    "details": "An initiative to empower the youth of the country with skill sets which make them more employable and more productive in their work environment.",
+    "benefits": "Free skill training across various sectors; Industry-recognized certification; Job placement support.",
+    "eligibility": {
+      "text": "Indian youth; Minimum educational requirements vary by course."
+    },
+    "nlp": {
+      "keywords": ["skill", "training", "employment", "youth", "certification"],
+      "detected_states": ["india"]
+    },
+    "level": "Central",
+    "schemeCategory": "General Category Scheme",
+    "is_central": true
+  }
+]
